@@ -1,0 +1,9 @@
+[submodule "pkg"]
+	path = pkg
+	url = https://github.com/yepengxj/df_pkg.git
+[submodule "cmd"]
+	path = cmd
+	url = https://github.com/yepengxj/df_cmd.git
+[submodule "assets"]
+	path = assets
+	url = https://github.com/yepengxj/df_assets.git
